@@ -1,4 +1,6 @@
-<img width="10459" height="272" alt="image" src="https://github.com/user-attachments/assets/044a6f50-72a3-4b81-b732-ef96b19e1456" />**Goal**
+**This project was awarded the Champion position – (IIT Bombay FOSSEE Geospatial Mapathon 2025)**
+
+**Goal**
 To identify electric poles and power lines in Rewa District that are vulnerable to tree fall-related disruptions by integrating canopy cover proximity, power infrastructure, and road network data using QGIS and open geospatial datasets.
 
 **Problem Statement**
