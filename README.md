@@ -1,5 +1,6 @@
 <img width="10459" height="272" alt="image" src="https://github.com/user-attachments/assets/044a6f50-72a3-4b81-b732-ef96b19e1456" />**Goal**
 To identify electric poles and power lines in Rewa District that are vulnerable to tree fall-related disruptions by integrating canopy cover proximity, power infrastructure, and road network data using QGIS and open geospatial datasets.
+
 **Problem Statement**
 In forested regions like Rewa District, Madhya Pradesh, vegetation encroachment poses a significant threat to above-ground power infrastructure, especially electric poles and lines. Tree falls during routine maintenance lapses or heavy vegetation growth can disrupt electricity supply to rural areas. Despite the availability of infrastructure maps, no integrated GIS-based assessment currently exists to identify poles at high risk due to nearby canopy. This project aims to analyze the spatial relationship between canopy cover and power-line infrastructure using open data and QGIS, helping to prioritize mitigation and maintenance actions
 
